@@ -1,0 +1,2 @@
+# paginagame.com
+ko
